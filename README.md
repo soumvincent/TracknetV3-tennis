@@ -1,7 +1,7 @@
 # TracknetV3-tennis
 TrackNet V3 fine tuned on a tennis dataset
 
-Task 1- Technical summary of the paper
+Task 1- Technical summary of the paper https://solstice-creator-206.notion.site/TrackNetV3-e53eae49023847fea372442dd3d86ee1
 
 Task2 - Model Tracknet is finetuned on a dataset of labeled tennis match images. The script for fine tuning is attached and the weights of tracknet obtained from fine tuning are also attached.
 The weights include the confusion matrix in the parameter dictionary.
