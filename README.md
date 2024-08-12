@@ -1,5 +1,6 @@
 # TracknetV3-tennis
 TrackNet V3 fine tuned on a tennis dataset
+
 Task 1- Technical summary of the paper
 
 Task2 - Model Tracknet is finetuned on a dataset of labeled tennis match images. The script for fine tuning is attached and the weights of tracknet obtained from fine tuning are also attached.
